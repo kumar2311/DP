@@ -432,4 +432,5 @@ void main()
 {
 	clrscr();
 	login();
+	cout<<"THank you for sharing";
 }
